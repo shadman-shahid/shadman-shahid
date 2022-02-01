@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shadman-shahid
 - 👀 I’m interested in photonic simulations and designs.
 - 🌱 I’m currently learning deep learning models for application in photonic design.
-- 💞️ I’m looking to collaborate on projects related to data analysis
+- 💞️ I’m looking to collaborate on projects related to data analysis, computational electromagnetics, finite element simulations and nanophotonic applications
 - 📫 How to reach me: shadman9085@gmail.com
 
 <!---
